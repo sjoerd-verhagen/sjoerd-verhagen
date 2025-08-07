@@ -1,10 +1,44 @@
-# Hi, I'm Sjoerd 👋  
-I'm a data analyst with experience in **SQL**, **Python**, and **Tableau**.
+# 👋 Hi, I'm Sjoerd Verhagen
 
-## Projects
-- 📊 [Barcelona Rental Market Analysis](link-to-project-folder)
-- 🍽️ [Restaurant Popularity Drivers](link-to-project-folder)
+**Data Analyst** | SQL • Python • Tableau  
+I simplify complexity, connect insights with people, and turn data into decisions.
 
-## Contact
-- [LinkedIn]([https://linkedin.com/in/sjoerdverhagen](https://www.linkedin.com/in/sjoerd-verhagen-2a40ab14a/))
+---
 
+## 🚀 Projects
+
+### 📊 [Barcelona Rental Market Analysis](https://github.com/sjoerdv/portfolio/blob/main/rental-analysis.html)
+- **Tools:** SQL, Tableau
+- Explored Idealista rental data to find the best value-for-money areas in Barcelona.
+- Answered questions like: Where is the most supply? What’s the cost difference between 1BR and 2BR?
+
+### 🍽️ [Restaurant Popularity Drivers](https://github.com/sjoerdv/portfolio/blob/main/restaurant-analysis.html)
+- **Tools:** Python, SQL, Tableau
+- Investigated what makes restaurants popular using scraped reviews and location data.
+
+---
+
+## 🧠 Skills
+
+- SQL (PostgreSQL, BigQuery)
+- Python (Pandas, EDA, scraping)
+- Tableau
+- Data cleaning & wrangling
+- Behavior-driven insights
+
+---
+
+## 👨‍💻 About Me
+
+I'm a former consultant with a background in social psychology and philosophy of science.  
+Now I'm diving into data — combining logic, empathy, and curiosity to make sense of the world through numbers.
+
+📍 Moving to **Barcelona** in September 2025  
+📚 Always learning — currently building projects to sharpen my skills.
+
+---
+
+## 📬 Contact
+
+- 📧 [sjoerd@email.com](mailto:sjoerd_verhagen@live.nl)
+- 💼 [LinkedIn]([https://linkedin.com/in/sjoerdverhagen](https://www.linkedin.com/in/sjoerd-verhagen-2a40ab14a/))
