@@ -7,7 +7,7 @@ I simplify complexity, connect insights with people, and turn data into decision
 
 ## 🚀 Projects
 
-### 📊 [Barcelona Rental Market Analysis](https://github.com/sjoerdv/portfolio/blob/main/rental-analysis.html)
+### 📊 [Barcelona Rental Market Analysis]([https://github.com/sjoerdv/portfolio/blob/main/rental-analysis.html](https://sjoerd-verhagen.github.io/barcelona-rental-analysis/))
 - **Tools:** SQL, Tableau
 - Explored Idealista rental data to find the best value-for-money areas in Barcelona.
 - Answered questions like: Where is the most supply? What’s the cost difference between 1BR and 2BR?
