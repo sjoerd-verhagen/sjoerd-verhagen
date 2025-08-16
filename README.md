@@ -14,7 +14,8 @@ Now I’m moving to Barcelona and focusing on data analysis — using SQL, Pytho
   *Stack: Python · SQL · Tableau*
 
 ## 🛠 Skills
-SQL · Python (pandas, regex, scraping) · Tableau · Data cleaning · Dashboarding · Stakeholder storytelling
+SQL · Python (pandas, regex, scraping) · Tableau · Data Cleaning & Preparation · Data Visualisation ·  
+Stakeholder Engagement · Process Improvement (LEAN) · Behavioural Insights
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/s-verhagen/) · [Email](mailto:sjoerd_verhagen@live.nl)
