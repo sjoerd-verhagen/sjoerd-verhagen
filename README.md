@@ -5,11 +5,11 @@ My background is in psychology and philosophy of science, and I’ve worked as a
 Now I’m moving to Barcelona and focusing on data analysis — using SQL, Python, and Tableau to find insights that guide better decisions. I like projects where numbers connect back to people and behaviour.  
 
 ## 📌 Featured Projects
-- [Barcelona Rental Analysis](https://github.com/sjoerd-verhagen/barcelona-rental-analysis)  
+- 🏠 [Barcelona Rental Analysis](https://github.com/sjoerd-verhagen/barcelona-rental-analysis)  
   Scraped 2,218 rental listings from Idealista, analysed price vs. size across districts.  
   *Stack: Python · SQL · Tableau*
 
-- [HelloFresh Seasonality](https://github.com/sjoerd-verhagen/hellofresh-seasonality-spain)  
+- 🌱 [HelloFresh Seasonality](https://github.com/sjoerd-verhagen/hellofresh-seasonality-spain)  
   Analysed 236 vegetarian recipes vs seasonal produce availability in Spain.  
   *Stack: Python · SQL · Tableau*
 
