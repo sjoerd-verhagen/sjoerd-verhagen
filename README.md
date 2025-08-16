@@ -1,4 +1,4 @@
-# Hi, I’m Sjoerd 👋
+# I’m Sjoerd, and I help organisations and people make sense of complexity.
 
 I help organisations and people make sense of complexity.  
 
